@@ -10,3 +10,8 @@ NFC Card Starter Project
 <img width="1486" height="824" alt="image" src="https://github.com/user-attachments/assets/ef830f81-93ec-4f20-86cd-412bbb38d50d" /> PCB Model
 
 ### In the next part of this project I need to finish routing everything then creating the pathways for it to be traced on to fully connect then get it checked over with by my teammate. I also want to hopefully learn more and get much better at routing. 
+
+## 9/20/2026
+### Today I finished routing the entire PCB. I started first with a bunch of connections and bad practices like not making power wires bigger and having a lot of curves but with the help of my teammate I learned how to fix these bad practices and made the PCB look more polished. I am not completely done routing the PCB Servo motor part and need to find the way to make it connect to the raspberry Pico 5. I did not save my file at the end of it so some minor changes need to be added again to the PCB which I will start with next week.
+<img width="629" height="399" alt="image" src="https://github.com/user-attachments/assets/a88f7beb-2e28-485b-ab27-64c2a2eed0e7" />
+## Almost Complete PCB
